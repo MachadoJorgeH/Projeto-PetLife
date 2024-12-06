@@ -1,4 +1,4 @@
-# Projeto de Portfólio
+# Projeto PetLife
 Este é um projeto de Clinica Veterinária desenvolvido com o objetivo de exibir minhas habilidades como Desenvolvedor Front-End. O projeto utiliza diversas tecnologias para criar uma interface moderna e funcional.
 
 ## Tecnologias Utilizadas 🚀
