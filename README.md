@@ -10,4 +10,6 @@ Este é um projeto de portfólio desenvolvido com o objetivo de exibir minhas ha
 
 ## Acesse o Projeto Online 🌐
 
+![image](ProjetoPetLife.jpg)
+
 [Veja o projeto no GitHub Pages](https://machadojorgeh.github.io/Projeto-PetLife/)
