@@ -13,7 +13,7 @@
     color: #263138;
   }
   
-  /* Cabeçalho */
+  
   header {
     background-color: #340f8a;
     display: flex;
@@ -31,7 +31,7 @@
     padding: 0 32px;
     text-decoration: none;
   }
-  /* Seção inicial */
+  
   #inicio {
     display: flex;
     align-items: center;
@@ -75,7 +75,7 @@
     z-index: -10;
   }
   
-  /* Seção clínica */
+  
   #clinica {
     display: flex;
     align-items: center;
@@ -88,7 +88,7 @@
     margin-left: 32px;
   }
   
-  /* Seção petshop e farmácia */
+  
   #farmacia {
     padding: 64px 80px;
     text-align: center;
@@ -103,7 +103,7 @@
     margin: 0 auto;
   }
   
-  /* Seção dúvidas frequentes */
+  
   #duvidas {
     display: flex;
     align-items: start;
@@ -148,7 +148,7 @@
     padding: 24px;
   }
   
-  /* Rodapé */
+  
   footer {
     background-color: #340f8a;
     display: flex;
